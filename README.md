@@ -66,15 +66,15 @@ In order to explain concisely, I have used secret key to be as # qiskit. The eva
 
 1] On Simualtor [qasm]
 
-![decode](Data/img8.PNG)
+![decode](Data/img8.png)
 
 2] On real Quantum Computer [ibmq-bogota]:
 
-![decode](Data/img9.PNG)
+![decode](Data/img9.png)
 
 3] on real Quantum computer [ibmq-bogota] {Hybrid Model}:
 
-![decode](Data/img10.PNG)
+![decode](Data/img10.png)
 Contributor:
 
 - [Shisheer S Kaushik](https://www.linkedin.com/in/shisheerkaushik24/)
