@@ -1,6 +1,6 @@
 # Quantum_BB84_Encryption
 
-The idea is to encode the sender's text(secret message) using the concept of interference. The secret message is encoded based on the cover file(a text sentence in this case). An interactive working implementation is available here: [https://share.streamlit.io/shisheerkaushik24/quantum-stegaayzer/app.py](https://share.streamlit.io/shisheerkaushik24/quantum-stegaayzer/app.py). 
+The idea is to encode the sender's text(secret message) using the concept of interference. The secret message is encoded based on the cover file(a text sentence in this case). A Demo video of interactive working implementation is available here: [Demo](https://drive.google.com/file/d/1RHY_QOV1cPRRPEe5KYRz-5Mahdmc7Ia7/view?usp=sharing). 
 
 We have chosen our cover file and the secret message to be in text formats to make it easier for new learners to understand the concept of quantum steganography while also trying it out interactively in a console. 
 
