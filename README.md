@@ -8,7 +8,7 @@ We have chosen our cover file and the secret message to be in text formats to ma
 
 We have implemented Quantum Steganography using qiskit in this project.   
 
-![q stegalyzer](Data/dat0.png)
+![q_stegalyzer](asset/dat0.png)
 
 We have chosen our cover file and the secret message to be in text formats to make it easier for new learners to understand the concept of quantum steganography while also trying it out interactively in a console. 
 
@@ -20,45 +20,45 @@ Here are some steps to interactively play with our application:
 
 1. Choose the number of qubits using the slider. We would suggest that you choose 7 for the encoding and decoding scheme to work flawlessly. You can also test out other number of qubits to view the generated circuit.  
 
-![no_of_qubits](Data/img2.png)
+![no_of_qubits](asset/img2.png)
 
 2. Enter the Secret message and press enter. For instance, let us try a letter, NOTE: Enter only small letters [i.e f,h,l, etc ]
 
-![secret_msg](Data/dat1.PNG)
+![secret_msg](asset/dat1.PNG)
 
-![secret_msg](Data/dat2.PNG)
+![secret_msg](asset/dat2.PNG)
 
 Here, you can also view the generated circuit.
 
 Above is the transpilated circuit generated with respect to the secret key entered, using the special gates during Quantum Simulation  
 
-![secret_msg](Data/dat3.PNG)
+![secret_msg](asset/dat3.PNG)
 
 3. This graph shows the output generated with respect the secret key entered
 
 4. Upload a sentence where you wish to hide your message and press enter. NOTE: Enter only small words [i.e family,hindrance,lanquage, etc ]
 
-![encode](Data/dat4.PNG)
+![encode](asset/dat4.PNG)
 
 5. Click on encode to view the encoded message
 
-![encode](Data/dat5.PNG)
+![encode](asset/dat5.PNG)
 
 6. Then click on decode to finally view your original secret message
 
-![decode](Data/dat6.PNG)
+![decode](asset/dat6.PNG)
 
 All the simulation was done qiskit sdk: [Secret key used: Qiskit]
 
 a] Simulator
 
-![decode](Data/img7.PNG)
+![decode](asset/img7.PNG)
 
 The fig(a) graph selected is the output generated from the Quantum Simulator [ qasm_simulator]
 
 b] Quantum Cumpter [ibmq-melbourne]
 
-![decode](Data/img6.PNG)
+![decode](asset/img6.PNG)
 
 The fig(b) graph slected is the output generated from the Real Quantum Computer [ ibmq-melbourne]
 
@@ -70,15 +70,15 @@ The evaluation was done using two different backend computers in order to obtain
 
 1] On Simualtor [qasm]
 
-![decode](Data/img8.png)
+![decode](asset/img8.png)
 
 2] On real Quantum Computer [ibmq-bogota]:
 
-![decode](Data/img9.png)
+![decode](asset/img9.png)
 
 3] on real Quantum computer [ibmq-bogota] {Hybrid Model}:
 
-![decode](Data/img10.png)
+![decode](asset/img10.png)
 
 Contributor:
 
